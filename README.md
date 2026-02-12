@@ -28,6 +28,8 @@ Train the model using CrossEntropyLoss and Adam optimizer by performing forward 
 Evaluate the trained model on test data using accuracy, confusion matrix, and classification report, and perform prediction on a sample input.
 
 ## PROGRAM
+## NAME :NAKUL R 
+## REG NO: 212223240102
 ```
 class PeopleClassifier(nn.Module):
     def __init__(self, input_size):
@@ -74,15 +76,16 @@ train_model(model,train_loader,criterion,optimizer,epochs=100)
 
 ## Confusion Matrix
 
-<img width="747" height="472" alt="image" src="https://github.com/user-attachments/assets/b564c200-26cc-4caa-8acf-889bede090a8" />
+<img width="937" height="793" alt="image" src="https://github.com/user-attachments/assets/7bba27f3-9b08-48ce-b9a0-639af01f81eb" />
 
 
 ## Classification Report
 
+<img width="747" height="472" alt="image" src="https://github.com/user-attachments/assets/b564c200-26cc-4caa-8acf-889bede090a8" />
 
 ### New Sample Data Prediction
 <img width="1105" height="158" alt="image" src="https://github.com/user-attachments/assets/54fe1583-9eb6-4723-b7b1-b210a36b33c5" />
 
 
 ## RESULT
-Include your result here
+This program has been executed successfully.
